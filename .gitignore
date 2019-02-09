@@ -1,0 +1,4 @@
+vendor/
+/nbproject/private/
+/.bp-config/
+manifest.yml
